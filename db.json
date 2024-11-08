@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.com",
+      "password": "12345",
+      "username": "admin",
+      "userId": "1",
+      "tasks": [
+        {
+          "title": "hj",
+          "description": "hgjg",
+          "isCompleted": true
+        },
+        {
+          "title": "dfgjd",
+          "description": "gfdjfgjdg",
+          "isCompleted": false
+        },
+        {
+          "title": "fgjfg",
+          "description": "jdfgjdgjdfg",
+          "isCompleted": true
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "12345",
+      "username": "admin",
+      "userId": "e12c",
+      "id": "e12c",
+      "tasks": [
+        {
+          "title": "task1",
+          "description": "new task 1",
+          "isCompleted": false
+        },
+        {
+          "title": "task2",
+          "description": "new task 2",
+          "isCompleted": true
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Sample Task",
+      "completed": false,
+      "userId": 1
+    }
+  ],
+  "login": [
+    {
+      "email": "admin@admin.com",
+      "password": "12345",
+      "username": "admin",
+      "userId": "1",
+      "tasks": [
+        {
+          "title": "hj",
+          "description": "hgjg",
+          "isCompleted": true
+        },
+        {
+          "title": "dfgjd",
+          "description": "gfdjfgjdg",
+          "isCompleted": false
+        },
+        {
+          "title": "fgjfg",
+          "description": "jdfgjdgjdfg",
+          "isCompleted": true
+        }
+      ],
+      "id": "1"
+    }
+  ]
+}
